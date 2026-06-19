@@ -1,4 +1,4 @@
-# 💳 Digital Payment Application
+#  Digital Payment Application
 
 ## Overview
 
