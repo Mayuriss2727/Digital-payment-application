@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial project upload"
+git branch -M main
+git remote add origin https://github.com/Mayuriss2727/Digital-payment-application.git
+git push -u origin main
